@@ -1,1 +1,3 @@
-streamlit
+coverage>=7.4,<8
+pandas>=2.0,<4
+streamlit>=1.30,<2
